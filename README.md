@@ -1,4 +1,11 @@
-## Hello, folks! I'm kraloveckey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25">
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/kraloveckey/kenobi/refs/heads/main/img/kenobi.png" width="100" height="100">
+  <h1>Hello there! I'm kraloveckey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"></h1>
+  <br>
+</div>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&multiline=true&width=900&height=250&lines=I'm+cybersecurity+enthusiast+and+fan!;+;%F0%9F%93%9A+My+academic+and+professional+interests+include%3A+;1.+Information+Security+and+Cybersecurity+%F0%9F%94%92;2.+Linux+%F0%9F%90%A7;3.+Penetration+Testing+%F0%9F%94%93;4.+System+Administration+%E2%9A%99%EF%B8%8F;5.+Zero+Trust+Enterprise+Architecture+%F0%9F%94%90;6.+DevSecOps+%E2%9A%99%EF%B8%8F;7.+Artificial+Intelligence+%F0%9F%A4%96)](https://git.io/typing-svg)
 
@@ -36,16 +43,16 @@
 
 <br/>
 
-## GitHub Stats ⭐
+## ⭐ GitHub Stats
 
 <div align="left">
-<img alt="kraloveckey GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kraloveckey&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraloveckey&layout=compact&&langs_count=8"/>
+<img alt="kraloveckey GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kraloveckey&show_icons=true&theme=react&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraloveckey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <br/>
 
-## Profile Views Counter 👁️‍🗨️
+## 👁️‍🗨️ Profile Views Counter
 [![kraloveckey profile views](https://u8views.com/api/v1/github/profiles/114905990/views/day-week-month-total-count.svg)](https://u8views.com/github/kraloveckey)
 
 <br/>
