@@ -20,9 +20,8 @@
 >
 > [![Hack The Box](https://www.hackthebox.eu/badge/image/285401)](https://app.hackthebox.com/profile/285401) <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuanpmdjkwc3hubWptN3UwdHdpeHl4d2UzeWc5b3RlZm9zeGo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJjylYWcPdKSWc7Km9/giphy.gif"  />
 
-
 ## 🤖 Badges
-
+<br/>
 <a href="https://academy.hackthebox.com/achievement/badge/f13c7af1-ddc7-11ef-864f-bea50ffe6cb4" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="HTB Certified Penetration Testing Specialist" width="150" height="150">
 </a> <a href="https://secops.group/product/certified-appsec-pentesting-expert-capenx/" target="_blank">
