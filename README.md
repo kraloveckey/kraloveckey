@@ -18,7 +18,7 @@
 
 > If you need access to the private repository with the very large number of up-to-date and retired writeups / walkthrough of **HTB** (**HackTheBox**) machines, pro labs and academy modules, please contact me in [Discord](https://discordapp.com/users/576089608736210959) or [Buy Me A Coffee](https://www.buymeacoffee.com/kraloveckey) with provide your username in the message.
 >
-> [![Hack The Box](https://www.hackthebox.eu/badge/image/285401)](https://app.hackthebox.com/profile/285401)
+> [![Hack The Box](https://www.hackthebox.eu/badge/image/285401)](https://app.hackthebox.com/profile/285401) <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuanpmdjkwc3hubWptN3UwdHdpeHl4d2UzeWc5b3RlZm9zeGo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJjylYWcPdKSWc7Km9/giphy.gif"  />
 
 
 ## 🤖 Badges
@@ -39,7 +39,7 @@
     <img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" alt="Certified Cyber Security Analyst (C3SA)" width="150" height="150">
 </a> <a href="https://www.credly.com/badges/e4b5f75e-fae1-4d63-aadd-38380f755b04/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate" width="150" height="150">
-</a>
+</a> 
 
 <br/>
 
