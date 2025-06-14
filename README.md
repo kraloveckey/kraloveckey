@@ -12,7 +12,7 @@
 ## :mailbox: You can reach me out!
 
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/kraloveckey)
-[!["Buy Me A Coffee"](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://www.buymeacoffee.com/kraloveckey)
+[!["PayPal Donate"](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92)
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discordapp.com/users/576089608736210959)
 <br/>
 
