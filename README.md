@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&multiline=true&width=900&height=250&lines=I'm+cybersecurity+enthusiast+and+fan!;+;%F0%9F%93%9A+My+academic+and+professional+interests+include%3A+;1.+Information+Security+and+Cybersecurity+%F0%9F%94%92;2.+Linux+%F0%9F%90%A7;3.+Penetration+Testing+%F0%9F%94%93;4.+System+Administration+%E2%9A%99%EF%B8%8F;5.+Zero+Trust+Enterprise+Architecture+%F0%9F%94%90;6.+DevSecOps+%E2%9A%99%EF%B8%8F;7.+Artificial+Intelligence+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=250&multiline=true&width=900&height=250&lines=I'm+cybersecurity+enthusiast+and+fan!;+;%F0%9F%93%9A+My+academic+and+professional+interests+include%3A+;1.+Information+Security+and+Cybersecurity+%F0%9F%94%92;2.+Linux+%F0%9F%90%A7;3.+Penetration+Testing+%F0%9F%94%93;4.+System+Administration+%E2%9A%99%EF%B8%8F;5.+Zero+Trust+Enterprise+Architecture+%F0%9F%94%90;6.+DevSecOps+%E2%9A%99%EF%B8%8F;7.+Artificial+Intelligence+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ## :mailbox: You can reach me out!
 
