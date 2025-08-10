@@ -40,6 +40,10 @@
     <img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" alt="Certified Cyber Security Analyst (C3SA)" width="150" height="150">
 </a> <a href="https://www.credly.com/badges/e4b5f75e-fae1-4d63-aadd-38380f755b04/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate" width="150" height="150">
+</a> <a href="https://www.credential.net/00d2e001-e968-4db6-b116-622bbe3ac607#acc.zbGTgDWq" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140576650" alt="Red Team Analyst [CRTA]" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-red-teamer/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/10/cert-stamp-crteamer-1.png" alt="Certified Red Teamer (CRTeamer)" width="150" height="150">
 </a> 
 
 <br/>
