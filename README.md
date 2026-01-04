@@ -28,18 +28,22 @@
     <img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="HTB Certified Penetration Testing Specialist" width="150" height="150">
 </a> <a href="https://academy.hackthebox.com/achievement/badge/a46bc3f2-88b2-11f0-9254-bea50ffe6cb4" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/7dcdd0c8cdce564a51346fff7cdb2788/logo.png" alt="HTB Certified Defensive Security Analyst" width="150" height="150">
-</a> <a href="https://secops.group/product/certified-appsec-pentesting-expert-capenx/" target="_blank">
-    <img src="https://secops.group/wp-content/uploads/2024/03/cert-stamp-capenx-expert.png" alt="Certified AppSec Pentesting eXpert (CAPenX)" width="150" height="150">
-</a> <a href="https://secops.group/product/certified-appsec-pentester/" target="_blank">
-    <img src="https://secops.group/wp-content/uploads/2023/01/certified-appsec-pentester.png" alt="Certified AppSec Pentester (CAPen)" width="150" height="150">
-</a> <a href="https://secops.group/product/certified-network-pentester/" target="_blank">
-    <img src="https://secops.group/wp-content/uploads/2023/02/certified-network-pentester.png" alt="Certified Network Pentester (CNPen)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-appsec-pentesting-expert-capenx/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2024/03/cert-stamp-capenx-expert.png" alt="Certified AppSec Pentesting eXpert (CAPenX)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-blue-teamer/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2025/11/cert-stamp-blue-teamer.webp" alt="Certified Blue Teamer (CBTeamer)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-appsec-pentester/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/01/certified-appsec-pentester.png" alt="Certified AppSec Pentester (CAPen)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-network-pentester/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/02/certified-network-pentester.png" alt="Certified Network Pentester (CNPen)" width="150" height="150">
 </a> <a href="https://pentestingexams.com/product/certified-red-teamer/" target="_blank">
     <img src="https://pentestingexams.com/wp-content/uploads/2023/10/cert-stamp-crteamer-1.png" alt="Certified Red Teamer (CRTeamer)" width="150" height="150">
-</a> <a href="https://secops.group/product/certified-application-security-practitioner/" target="_blank">
-    <img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" alt="Certified AppSec Practitioner (CAP)" width="150" height="150">
-</a> <a href="https://secops.group/product/certified-network-security-practitioner/" target="_blank">
-    <img src="https://secops.group/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" alt="Certified Network Security Practitioner (CNSP)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-ai-ml-pentester/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/09/cert-stamp-aiml-pro.png" alt="Certified AI/ML Pentester (C-AI/MLPen)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-application-security-practitioner/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-2.png" alt="Certified AppSec Practitioner (CAP)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/product/certified-network-security-practitioner/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" alt="Certified Network Security Practitioner (CNSP)" width="150" height="150">
 </a> <a href="https://www.credential.net/00d2e001-e968-4db6-b116-622bbe3ac607#acc.zbGTgDWq" target="_blank">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140576650" alt="Red Team Analyst [CRTA]" width="150" height="150">
 </a> <a href="https://app.kajabi.com/certificates/ded97b80" target="_blank">
