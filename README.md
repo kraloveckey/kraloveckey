@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/kraloveckey/kenobi/refs/heads/main/img/kenobi.png" width="100" height="100">
+  <img src=".assets/kenobi.png" width="100" height="100">
   <h1>Hello there! I'm kraloveckey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"></h1>
   <br>
 </div>
