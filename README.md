@@ -57,8 +57,8 @@
 ## ⭐ GitHub Stats
 
 <div align="left">
-<img alt="kraloveckey GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kraloveckey&show_icons=true&theme=react&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraloveckey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
+<img alt="kraloveckey GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=kraloveckey&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true&count_private=true&include_all_commits=true"/>
+<img alt="Top langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kraloveckey&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <br/>
