@@ -44,6 +44,8 @@
     <img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-2.png" alt="Certified AppSec Practitioner (CAP)" width="150" height="150">
 </a> <a href="https://pentestingexams.com/product/certified-network-security-practitioner/" target="_blank">
     <img src="https://pentestingexams.com/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" alt="Certified Network Security Practitioner (CNSP)" width="150" height="150">
+</a> <a href="https://pentestingexams.com/certifications/essentials/certified-social-engineering-defense-practitioner/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2026/01/cert-stamp-csedp.webp" alt="Certified Social Engineering Defense Practitioner (CSEDP)" width="150" height="150">
 </a> <a href="https://www.credential.net/00d2e001-e968-4db6-b116-622bbe3ac607#acc.zbGTgDWq" target="_blank">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140576650" alt="Red Team Analyst [CRTA]" width="150" height="150">
 </a> <a href="https://app.kajabi.com/certificates/ded97b80" target="_blank">
