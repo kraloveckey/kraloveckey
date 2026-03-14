@@ -29,7 +29,7 @@
 </a> <a href="https://academy.hackthebox.com/achievement/badge/a46bc3f2-88b2-11f0-9254-bea50ffe6cb4" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/7dcdd0c8cdce564a51346fff7cdb2788/logo.png" alt="HTB Certified Defensive Security Analyst" width="150" height="150">
 </a> <a href="https://pentestingexams.com/product/certified-appsec-pentesting-expert-capenx/" target="_blank">
-    <img src="https://pentestingexams.com/wp-content/uploads/2024/03/cert-stamp-capenx-expert.png" alt="Certified AppSec Pentesting eXpert (CAPenX)" width="150" height="150">
+    <img src="https://pentestingexams.com/wp-content/uploads/2024/03/cert-stamp-capenx-expert.webp" alt="Certified AppSec Pentesting eXpert (CAPenX)" width="150" height="150">
 </a> <a href="https://pentestingexams.com/product/certified-blue-teamer/" target="_blank">
     <img src="https://pentestingexams.com/wp-content/uploads/2025/11/cert-stamp-blue-teamer.webp" alt="Certified Blue Teamer (CBTeamer)" width="150" height="150">
 </a> <a href="https://pentestingexams.com/product/certified-appsec-pentester/" target="_blank">
