@@ -20,7 +20,7 @@
 
 > If you need access to the private repository with the very large number of up-to-date and retired writeups / walkthrough of **HTB** (**HackTheBox**) machines, pro labs and academy modules, please contact me in [Discord](https://discordapp.com/users/576089608736210959).
 >
-> [![Hack The Box](https://www.hackthebox.eu/badge/image/285401)](https://app.hackthebox.com/profile/285401) <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuanpmdjkwc3hubWptN3UwdHdpeHl4d2UzeWc5b3RlZm9zeGo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJjylYWcPdKSWc7Km9/giphy.gif"  />
+> [![Hack The Box](https://www.hackthebox.eu/badge/image/285401)](https://app.hackthebox.com/public/users/285401) <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuanpmdjkwc3hubWptN3UwdHdpeHl4d2UzeWc5b3RlZm9zeGo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJjylYWcPdKSWc7Km9/giphy.gif"  />
 
 ## 🤖 Badges
 <br/>
