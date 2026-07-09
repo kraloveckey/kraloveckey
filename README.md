@@ -40,26 +40,25 @@
 </tr>
 
 <tr>
+<td><a href="https://pentestingexams.com/certifications/expert/certified-red-teamer-expert/"><img src="./.assets/cert-stamp-crteamerx.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-blue-teamer/"><img src="./.assets/cert-stamp-blue-teamer.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-appsec-pentester/"><img src="./.assets/cert-stamp-capen.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-network-pentester/"><img src="./.assets/cert-stamp-cnpen.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-red-teamer/"><img src="./.assets/cert-stamp-crteamer.webp" width="150"></a></td>
-<td><a href="https://pentestingexams.com/product/certified-ai-ml-pentester/"><img src="./.assets/cert-stamp-aiml.webp" width="150"></a></td>
-
 </tr>
 
 <tr>
+<td><a href="https://pentestingexams.com/product/certified-ai-ml-pentester/"><img src="./.assets/cert-stamp-aiml.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-application-security-practitioner/"><img src="./.assets/cert-stamp-cap.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/product/certified-network-security-practitioner/"><img src="./.assets/cert-stamp-cnsp.webp" width="150"></a></td>
 <td><a href="https://pentestingexams.com/certifications/essentials/certified-social-engineering-defense-practitioner/"><img src="./.assets/cert-stamp-csedp.webp" width="150"></a></td>
 <td><a href="https://www.credential.net/00d2e001-e968-4db6-b116-622bbe3ac607#acc.zbGTgDWq"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140576650" width="150"></a></td>
-<td><a href="https://app.kajabi.com/certificates/ded97b80"><img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" width="150"></a></td>
 </tr>
 
 <tr>
+<td><a href="https://app.kajabi.com/certificates/ded97b80"><img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" width="150"></a></td>
 <td><a href="https://www.credly.com/badges/e4b5f75e-fae1-4d63-aadd-38380f755b04/public_url"><img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="150"></a></td>
 <td><a href="https://coursera.org/share/c9710ddddfb9535bebea0ddf784251d7"><img src="https://images.credly.com/images/ef9bf9be-70c1-4aea-922d-d1cc964c1090/blob" width="150"></a></td>
-<td><p align="center"><a>–</a></p></td>
 <td><p align="center"><a>–</a></p></td>
 <td><p align="center"><a>–</a></p></td>
 </tr>
